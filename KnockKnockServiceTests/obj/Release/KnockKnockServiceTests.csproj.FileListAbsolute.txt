@@ -1,0 +1,7 @@
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\bin\Release\KnockKnockServiceTests.dll
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\bin\Release\KnockKnockServiceTests.pdb
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\bin\Release\nunit.framework.dll
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\bin\Release\nunit.framework.xml
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\obj\Release\KnockKnockServiceTests.dll
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\obj\Release\KnockKnockServiceTests.pdb
+C:\KnockKnock\KnockKnock\KnockKnockServiceTests\bin\Release\KnockKnockServiceTests.dll.config

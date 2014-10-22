@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="230fbb58-9bf9-4090-b63b-13a8a23a612f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50205/KnockKnockService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RedPillService.wsdl" MetadataType="Wsdl" ID="e9804855-37ac-4a1b-af83-de5aa929cf1f" SourceId="1" SourceUrl="http://localhost:50205/KnockKnockService.svc?wsdl" />
+    <MetadataFile FileName="KnockKnockService.xsd" MetadataType="Schema" ID="4815d992-12ac-430d-9239-dfa481e9e89f" SourceId="1" SourceUrl="http://localhost:50205/KnockKnockService.svc?xsd=xsd2" />
+    <MetadataFile FileName="KnockKnockService1.xsd" MetadataType="Schema" ID="eaaf6306-a72a-4d46-9094-79d246548705" SourceId="1" SourceUrl="http://localhost:50205/KnockKnockService.svc?xsd=xsd1" />
+    <MetadataFile FileName="KnockKnockService2.xsd" MetadataType="Schema" ID="f005b268-ff24-418a-8f6d-10f0a38821ff" SourceId="1" SourceUrl="http://localhost:50205/KnockKnockService.svc?xsd=xsd0" />
+    <MetadataFile FileName="KnockKnockService.disco" MetadataType="Disco" ID="dc0da91a-90fc-4cd1-a57e-9f1598afe8e5" SourceId="1" SourceUrl="http://localhost:50205/KnockKnockService.svc?disco" />
+    <MetadataFile FileName="KnockKnockService.wsdl" MetadataType="Wsdl" ID="a525ccab-8294-40ef-b611-30744781728a" SourceId="1" SourceUrl="http://localhost:50205/KnockKnockService.svc?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

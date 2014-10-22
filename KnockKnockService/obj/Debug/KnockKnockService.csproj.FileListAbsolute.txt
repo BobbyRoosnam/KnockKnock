@@ -1,0 +1,4 @@
+C:\KnockKnock\KnockKnock\KnockKnockService\bin\KnockKnockService.dll
+C:\KnockKnock\KnockKnock\KnockKnockService\bin\KnockKnockService.pdb
+C:\KnockKnock\KnockKnock\KnockKnockService\obj\Debug\KnockKnockService.dll
+C:\KnockKnock\KnockKnock\KnockKnockService\obj\Debug\KnockKnockService.pdb
