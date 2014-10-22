@@ -183,7 +183,7 @@ namespace KnockKnockServiceTests
             }
 
             [Test, TestCaseSource(typeof(ShapeTest), "Cases")]
-            public TriangleType WhatIsthis_UsingCase_ValueMatches(int a, int b, int c)
+            public TriangleType WhatShapeIsThisCase(int a, int b, int c)
             {
                 return service.WhatShapeIsThis(a, b, c);
             }
@@ -211,7 +211,7 @@ namespace KnockKnockServiceTests
             }
 
             [Test, TestCaseSource(typeof(ReverseWordsTest), "Cases")]
-            public string Reverse_UsingCase_ValueMatches(string input)
+            public string ReverseWordsCase(string input)
             {
                 return service.ReverseWords(input);
             }
